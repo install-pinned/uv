@@ -20,7 +20,7 @@ In your GitHub Actions workflow, use this action like so:
 
 ```yaml
       - name: Install uv from PyPI
-        uses: install-pinned/uv@108d16c776671f0628d06b1d4b76b270b96ca8f1  # 0.2.37
+        uses: install-pinned/uv@65e6ccf5e5466f44f1fde51827e3bb819ec2509d  # 0.3.0
 ```
 
 You can [set up Dependabot](https://docs.github.com/en/code-security/dependabot/working-with-dependabot/keeping-your-actions-up-to-date-with-dependabot#example-dependabotyml-file-for-github-actions)
